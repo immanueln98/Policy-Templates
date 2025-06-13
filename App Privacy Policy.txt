@@ -1,0 +1,59 @@
+PRIVACY POLICY
+Last Updated: May 6, 2025
+This privacy policy applies to the BANTUWORLD app (hereby referred to as "Application") for mobile devices that was created by neoBOTS (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+1. INFORMATION COLLECTION AND USE
+The Application collects information when you download and use it. This information may include:
+* Your device's Internet Protocol address (e.g. IP address)
+* The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+* The time spent on the Application
+* The operating system you use on your mobile device
+For a better experience, while using the Application, the Service Provider may require you to provide certain personally identifiable information, including but not limited to Email, Username, and Location. The information that the Service Provider requests will be retained and used as described in this privacy policy.
+2. LOCATION INFORMATION
+The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of it in the following ways:
+* Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
+* Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+* Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+3. CAMERA AND AUGMENTED REALITY DATA
+As an augmented reality application, BANTUWORLD requires access to your device's camera and various sensors to function properly. The camera feed is processed in real-time on your device to identify surfaces and place virtual objects. The Service Provider does not store or transmit the raw camera feed to their servers. Object detection and surface mapping data may be processed on-device to improve the AR experience.
+4. THIRD-PARTY ACCESS
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+The Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+* Google Play Services
+* Google Analytics for Firebase
+* Unity
+The Service Provider may disclose User Provided and Automatically Collected Information:
+* As required by law, such as to comply with a subpoena, or similar legal process
+* When they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+* With their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement
+5. DATA SECURITY
+The Service Provider is concerned about safeguarding the confidentiality of your information. They provide physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+The Service Provider has implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. However, they cannot guarantee that unauthorized third parties will never be able to defeat those measures.
+6. YOUR PRIVACY RIGHTS
+Depending on your location, you may have certain rights regarding your personal information, such as:
+* The right to access and receive a copy of your personal information
+* The right to rectify or update your personal information
+* The right to delete your personal information
+* The right to restrict processing of your personal information
+* The right to object to processing of your personal information
+* The right to data portability
+* The right to withdraw consent
+To exercise any of these rights, please contact the Service Provider at neobots25@gmail.com.
+7. DATA RETENTION POLICY
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at neobots25@gmail.com and they will respond in a reasonable time.
+8. OPT-OUT RIGHTS
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+9. CHILDREN'S PRIVACY
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discovers that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (neobots25@gmail.com) so that they will be able to take the necessary actions.
+10. ANALYTICS AND ADVERTISING
+The Service Provider may use third-party Service Providers to monitor and analyze the use of the Application and to display advertisements.
+11. MARKETING COMMUNICATIONS
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices, and marketing promotions. You can opt out of these communications by contacting the Service Provider or using the unsubscribe option in the communications.
+12. CHANGES TO THIS PRIVACY POLICY
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This privacy policy is effective as of May 6, 2025.
+13. YOUR CONSENT
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+14. CONTACT US
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at neobots25@gmail.com.
+

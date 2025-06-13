@@ -1,0 +1,50 @@
+TERMS AND CONDITIONS
+Last Updated: May 6, 2025
+1. AGREEMENT TO TERMS
+These terms and conditions apply to the BANTUWORLD app (hereby referred to as "Application") for mobile devices that was created by neoBOTS (hereby referred to as "Service Provider") as a Free service.
+Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. If you do not agree with all of these Terms and Conditions, then you are prohibited from using the Application and you must discontinue use immediately.
+2. INTELLECTUAL PROPERTY RIGHTS
+Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+3. USER REPRESENTATIONS
+By using the App, you represent and warrant that:
+(1) You have the legal capacity and you agree to comply with these Terms and Conditions; (2) You are not a minor in the jurisdiction in which you reside, or if a minor, you have received parental permission to use the App; (3) You will not access the App through automated or non-human means; (4) You will not use the App for any illegal or unauthorized purpose; and (5) Your use of the App will not violate any applicable law or regulation.
+4. USER REGISTRATION
+You may be required to register with the App. You agree to keep your password confidential and will be responsible for all use of your account and password. The Service Provider reserves the right to remove, reclaim, or change a username you select if they determine, in their sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
+5. PROHIBITED ACTIVITIES
+You may not access or use the App for any purpose other than that for which the Service Provider makes the App available. The App may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by the Service Provider.
+6. AUGMENTED REALITY FEATURES
+The App uses augmented reality technology that may require access to your device's camera, location, and other sensors. By using the App, you acknowledge and agree to grant the necessary permissions for these features to function properly.
+7. THIRD-PARTY SERVICES
+The Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
+* Google Play Services
+* Google Analytics for Firebase
+* Unity
+8. DEVICE AND CONNECTIVITY REQUIREMENTS
+The Application requires an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
+If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming.
+If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
+It is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
+9. APP SECURITY AND DEVICE MODIFICATIONS
+The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application.
+The Service Provider strongly advises against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
+10. UPDATES AND CHANGES TO THE APPLICATION
+The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application.
+The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you.
+The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+11. TERMINATION
+The Service Provider may wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+12. DISCLAIMER
+THE APP IS PROVIDED ON AN "AS-IS" AND "AS AVAILABLE" BASIS. YOU AGREE THAT YOUR USE OF THE APP AND OUR SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, THE SERVICE PROVIDER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE APP.
+While the Service Provider strives to ensure that the application is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
+13. LIMITATION OF LIABILITY
+IN NO EVENT WILL THE SERVICE PROVIDER OR THEIR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE APP.
+14. INDEMNIFICATION
+You agree to defend, indemnify, and hold the Service Provider harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with your access to or use of the App.
+15. CHANGES TO THESE TERMS AND CONDITIONS
+The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+These terms and conditions are effective as of May 6, 2025.
+16. GOVERNING LAW
+These Terms shall be governed by and defined following applicable laws, and you irrevocably consent that the courts in the relevant jurisdiction shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
+17. CONTACT US
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at neobots25@gmail.com.
+
